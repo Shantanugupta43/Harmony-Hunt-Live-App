@@ -41,19 +41,19 @@ Make sure to add the <b> API KEY </b> from Jamendo's website.
 
 <p>To obtain an API key from Jamendo, you need to follow these steps:</p>
 
-<b> Create a Jamendo Account:</b>
-<p> - If you don't have a Jamendo account, you need to create one. Visit the Jamendo website (https://www.jamendo.com/start) and sign up for an account.</p>
+- Create a Jamendo Account:</b>
+<p> If you don't have a Jamendo account, you need to create one. Visit the Jamendo website (https://www.jamendo.com/start) and sign up for an account.</p>
 
-<b> Log in to Your Jamendo Account:</b>
-<p> - Once you have created an account, log in to the Jamendo website using your credentials.</p>
+- Log in to Your Jamendo Account:
+<p> Once you have created an account, log in to the Jamendo website using your credentials.</p>
 
-<b> Access the Developer Section:</b>
-<p> - After logging in, go to the Jamendo Developer Section. You can usually find this in the website's footer under "Developers" or by visiting a specific URL. For example, the developer section URL might be: https://developer.jamendo.com/start.</p>
+- Access the Developer Section:
+<p> After logging in, go to the Jamendo Developer Section. You can usually find this in the website's footer under "Developers" or by visiting a specific URL. For example, the developer section URL might be: https://developer.jamendo.com/start.</p>
 
-<b> Create a New Application:</b>
-<p> - Inside the developer section, you'll need to create a new application to obtain an API key. Look for an option like "Create a new application" or "Register a new app." Provide the required information about your application, such as the name, description, and purpose.</p>
+- Create a New Application:
+<p> Inside the developer section, you'll need to create a new application to obtain an API key. Look for an option like "Create a new application" or "Register a new app." Provide the required information about your application, such as the name, description, and purpose.</p>
 
-<b> Obtain the API Key:</b>
+- Obtain the API Key:
 <p> - Once you've registered your application, you should receive an API key. This key is essential for making requests to the Jamendo API. Copy the API key and keep it secure, as it will be used to authenticate your requests.</p>
 
 
