@@ -57,7 +57,6 @@ Make sure to add the <b> API KEY </b> from Jamendo's website.
 <p> - Once you've registered your application, you should receive an API key. This key is essential for making requests to the Jamendo API. Copy the API key and keep it secure, as it will be used to authenticate your requests.</p>
 
 
-
 <b>IntroScreen.js</b>
 
 <p>Contains popup allowing users to choose a genre</p>
@@ -67,6 +66,33 @@ Make sure to add the <b> API KEY </b> from Jamendo's website.
 
 
 <p>Contains Widget Properties such as play, pause, next, previous. </p>
+
+<h2> Versioning package </h2>
+
+<b>package-lock.json</b>
+
+
+Make sure to change the version name and lockfileversion by adding one if making changes to the code ( for example - new version could be named from ```1.2.6``` to ```1.2.7``` and lockfileversion would change from ```27``` to ```28```  .)
+
+```
+{
+  "lockfileVersion": 27,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "harmony-hunt",
+      "version": "1.2.6",
+    }
+  }
+}
+
+```
+
+
+Also modify version names in <b>package.json</b> and <b>app.json</b> accordingly.
+
+
+
 
 
 <h2> Running the project (Terminal) [Windows] </h2>
