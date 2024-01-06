@@ -157,7 +157,7 @@ function formatTime(timeMillis) {
         params: {
           tags: `'${genre.toLowerCase()}'`,
           limit: 200,
-          client_id: 'API',
+          client_id: 'API KEY ',
           order: 'releasedate_desc',
           vocalinstrumental:'vocal',
           audiodlformat: 'mp32',
