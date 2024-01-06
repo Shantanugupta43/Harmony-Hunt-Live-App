@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "harmony-hunt",
-    "slug": "harmony-hunt",
-    "version": "1.0.0",
+    "name": "Harmony Hunt",
+    "slug": "harmonyhunt",
+    "version": "1.2.6",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -18,6 +18,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.guptashantanu.harmonyhunt",
+      "versionCode": 27,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +27,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ca88493b-ec28-4aeb-88c6-2b8722e06b19"
+      }
     }
   }
 }
